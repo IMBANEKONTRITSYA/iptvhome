@@ -1,0 +1,292 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="doverie" group-title="📺 Фильмовые",Москва. Доверие
+https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="📺 Фильмовые",Русский Иллюзион
+http://moobl.ru/hls/Russky_illuzion.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="📺 Фильмовые",НТВ Хит
+http://moobl.ru/hls/NTV_hit.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" group-title="📺 Фильмовые",НТВ Сериал
+http://moobl.ru/hls/NTV_serial.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="📺 Фильмовые",НТВ Право
+http://moobl.ru/hls/NTV_pravo.m3u8
+#EXTINF:-1 tvg-id="evrokino" group-title="📺 Фильмовые",Еврокино
+http://moobl.ru/hls/Evrokino.m3u8
+#EXTINF:-1 tvg-id="evrokino" group-title="📺 Фильмовые",Еврокино HD
+http://moobl.ru/hls/Evrokino_hd.m3u8
+#EXTINF:-1 tvg-id="nst" group-title="📺 Фильмовые",НСТ
+http://moobl.ru/hls/NST.m3u8
+#EXTINF:-1 tvg-id="nst" group-title="📺 Фильмовые",НСТ HD
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 tvg-id="shot-tv" group-title="📺 Фильмовые",Shot TV
+http://persik.by/stream/3006/413021/10454.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://moobl.ru/hls/img/no_image.png" group-title="📺 Фильмовые",Russian HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3524
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Смотрим Кино и сериалы
+http://moobl.ru/hls/Kino_i_serialy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wpnkr29/7.png" group-title="📺 Фильмовые",Смотрим Кино и сериалы HD
+http://moobl.ru/hls/Kino_i_serialy_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые",Смотрим Мелодрамы
+http://moobl.ru/hls/Melodramy.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/V9Qfsvb/4.png" group-title="📺 Фильмовые",Смотрим Мелодрамы HD
+http://moobl.ru/hls/Melodramy_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые",Смотрим Тайны и следствие
+http://moobl.ru/hls/Tajny_i_sledstvie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://moobl.ru/hls/img/tajny_i_sledstvie.png" group-title="📺 Фильмовые",Смотрим Тайны и следствие HD
+http://moobl.ru/hls/Tajny_i_sledstvie_hd.m3u8
+#EXTINF:-1 tvg-id="timeless-dizi" group-title="📺 Фильмовые",Timeless Dizi Channel HD
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 tvg-id="312-kino" group-title="📺 Фильмовые",312 Кино
+http://moobl.ru/hls/312_kino.m3u8
+#EXTINF:-1 tvg-id="kino-24" group-title="📺 Фильмовые",Kino 24
+http://moobl.ru/hls/Kino_24.m3u8
+#EXTINF:-1 tvg-id="kinowood" group-title="📺 Фильмовые",Kinowood HD
+http://158.101.194.132:8888/channel/22542443/index.m3u8?q=f601bfe6ca637f5e7f8b0c32a2e23796
+#EXTINF:-1 tvg-id="kinoxit" group-title="📺 Фильмовые",Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinoxit" group-title="📺 Фильмовые",Кинохит HD
+http://moobl.ru/hls/Kinohit_hd.m3u8
+#EXTINF:-1 tvg-id="kinomiks" group-title="📺 Фильмовые",Киномикс
+http://moobl.ru/hls/Kinomix_HD.m3u8
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="📺 Фильмовые",Кинопремьера HD
+http://moobl.ru/hls/Kinopremyera_hd.m3u8
+#EXTINF:-1 tvg-id="kinosemiya" group-title="📺 Фильмовые",Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="📺 Фильмовые",Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="📺 Фильмовые",Индийское кино
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="super-plus" group-title="📺 Фильмовые",Super Plus HD
+http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png" group-title="📺 Фильмовые",КиноМеню HD
+https://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomenu/324/1/index.m3u8
+#EXTINF:-1 tvg-id="klassika-kino" group-title="📺 Фильмовые",Классика кино
+http://moobl.ru/hls/Klassika_kino.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15576/logo_256_1668760402.png" group-title="📺 Фильмовые",Novella TV
+http://158.101.214.187:8080/channel/a81497e/index.mpeg?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="kinoseria" group-title="📺 Фильмовые",Киносерия
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinokomedia" group-title="📺 Фильмовые",Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="📺 Фильмовые",Родное Кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас HD
+http://moobl.ru/hls/Kinouzhas_hd.m3u8
+#EXTINF:-1 tvg-id="scream" group-title="📺 Фильмовые",Scream
+http://46.8.21.67:2021/channel/2c7a264a/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="📺 Фильмовые",Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://app-tv.ru/images/logo-channel/tv-koshmar-hd.png" group-title="📺 Фильмовые",Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg" group-title="📺 Фильмовые",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://st.nuum.ru/nuum-upload/avatars/62ca8d96-3a99-4638-a64b-94a851bde86d/original.jpeg" group-title="📺 Фильмовые",STR TV
+https://playlist.nuum.ru/live/21710/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://mytorrent.ucoz.ua/Onlain_TV/film_tv/Akuji.png" group-title="📺 Фильмовые",Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-id="plan-b" group-title="📺 Фильмовые",Plan_B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="📺 Фильмовые",VIP HIT
+http://moobl.ru/hls/VIP_hit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="📺 Фильмовые",VIP FAMILY
+http://moobl.ru/hls/VIP_family.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://moobl.ru/hls/img/nashe-novoe-kino.png" group-title="📺 Фильмовые",Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="📺 Фильмовые",Комедия
+http://moobl.ru/hls/Comedy.m3u8
+#EXTINF:-1 tvg-id="sony-scifi" group-title="📺 Фильмовые",.sci-fi
+http://moobl.ru/hls/SciFi.m3u8
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="📺 Фильмовые",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="📺 Фильмовые",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="📺 Фильмовые",Про Любовь HD
+http://2.56.240.223:2021/channel/n5bf0fb1c/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="shokiruyushchee" group-title="📺 Фильмовые",Шокирующее HD
+http://46.8.21.67:2021/channel/n4773cab1/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="strashnoe-hd" group-title="📺 Фильмовые",Страшное HD
+http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
+http://46.8.21.67:2021/channel/n5fd2cd7/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="kriminalnoe-hd" group-title="📺 Фильмовые",Криминальное HD
+http://46.8.21.67:2021/channel/7cbfee5f/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="komedijnoe-hd" group-title="📺 Фильмовые",Комедийное HD
+http://46.8.21.67:2021/channel/258e9a85/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="ultra-hd-cinema" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Фильмовые",UltraHD Cinema 4K
+#EXTVLCOPT:http-user-agent=SmartTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 tvg-id="amedia1" group-title="📺 Фильмовые",Amedia 1
+http://moobl.ru/hls/Amedia_1.m3u8
+#EXTINF:-1 tvg-id="amedia1" group-title="📺 Фильмовые",Amedia 1 HD
+http://moobl.ru/hls/Amedia_1_hd.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="📺 Фильмовые",Amedia 2
+http://moobl.ru/hls/Amedia_2.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="📺 Фильмовые",Amedia 2 HD
+http://moobl.ru/hls/Amedia_2_hd.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" group-title="📺 Фильмовые",Amedia Premium
+http://moobl.ru/hls/Amedia_Premium.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" group-title="📺 Фильмовые",Amedia Premium HD
+http://moobl.ru/hls/Amedia_Premium_hd.m3u8
+#EXTINF:-1 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood
+http://moobl.ru/hls/Hollywood.m3u8
+#EXTINF:-1 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 tvg-id="mir-seriala" group-title="📺 Фильмовые",Мир сериала
+http://moobl.ru/hls/Mir_seriala.m3u8
+#EXTINF:-1 tvg-id="tvxxi" group-title="📺 Фильмовые",TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="📺 Фильмовые",Твое ТВ HD
+http://moobl.ru/hls/Tvoyo_tv_hd.m3u8
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://moobl.ru/hls/img/Tvoe-TV-Umor.png" group-title="📺 Фильмовые",Твое ТВ Юмор HD
+http://moobl.ru/hls/Tvoyo_tv_humor_hd.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="📺 Фильмовые",Иллюзион + HD
+http://moobl.ru/hls/Illyuzion_plus.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="📺 Фильмовые",Русский Бестселлер
+http://moobl.ru/hls/Russkiy_Bestseller.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="📺 Фильмовые",Мужское Кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinosat" group-title="📺 Фильмовые",Киносат
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 tvg-id="kinosezon" group-title="📺 Фильмовые",Киносезон
+https://s23.federal.tv:8082/liveg/kinosezon.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kinoliving" group-title="📺 Фильмовые",Kinoliving
+http://91.207.115.228:5000/c61
+#EXTINF:-1 tvg-id="sovkino" group-title="📺 Фильмовые",Советское кино
+http://moobl.ru/hls/Sovetskoye_kino.m3u8
+#EXTINF:-1 tvg-id="mosfilm" group-title="📺 Фильмовые",Мосфильм. Золотая коллекция
+http://moobl.ru/hls/Mosfilm.m3u8
+#EXTINF:-1 tvg-id="mosfilm" group-title="📺 Фильмовые",Мосфильм. Золотая коллекция HD
+http://moobl.ru/hls/Mosfilm_hd.m3u8
+#EXTINF:-1 tvg-id="kino1int-tviksel" group-title="📺 Фильмовые",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" group-title="📺 Фильмовые",Amedia Hit
+http://moobl.ru/hls/Amedia_hit.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" group-title="📺 Фильмовые",Amedia Hit HD
+http://185.134.36.63:4022/udp/234.0.0.169:2000
+#EXTINF:-1 tvg-id="start-air" group-title="📺 Фильмовые",START Air HD
+https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 tvg-id="start-world" group-title="📺 Фильмовые",START World HD
+https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 tvg-id="tv1000" group-title="📺 Фильмовые",Viju TV1000 HD
+http://moobl.ru/hls/TV1000_hd.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="📺 Фильмовые",Viju TV1000 Русское HD
+http://moobl.ru/hls/TV1000_russkoe_kino_hd.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" group-title="📺 Фильмовые",Viju TV1000 Action HD
+http://moobl.ru/hls/TV1000_action_hd.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые",Русский роман
+http://moobl.ru/hls/Russkiy_roman.m3u8
+#EXTINF:-1 tvg-id="russky-roman" group-title="📺 Фильмовые",Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="📺 Фильмовые",Русский детектив
+http://moobl.ru/hls/Russkiy_detektiv.m3u8
+#EXTINF:-1 tvg-id="domkino" group-title="📺 Фильмовые",Дом Кино
+http://moobl.ru/hls/Dom_kino.m3u8
+#EXTINF:-1 tvg-id="domkino-premium" group-title="📺 Фильмовые",Дом Кино Премиум HD
+http://moobl.ru/hls/Dom_kino_premium_hd.m3u8
+#EXTINF:-1 tvg-id="dorama" group-title="📺 Фильмовые",Дорама
+http://moobl.ru/hls/Dorama.m3u8
+#EXTINF:-1 tvg-id="dorama" group-title="📺 Фильмовые",Дорама HD
+http://moobl.ru/hls/Dorama_hd.m3u8
+#EXTINF:-1 tvg-id="kino-tv" group-title="📺 Фильмовые",Кино ТВ
+http://moobl.ru/hls/Kino_tv.m3u8
+#EXTINF:-1 tvg-id="kino-tv" group-title="📺 Фильмовые",Кино ТВ HD
+http://moobl.ru/hls/Kino_tv_hd.m3u8
+#EXTINF:-1 tvg-id="kineko" group-title="📺 Фильмовые",Кинеко
+http://moobl.ru/hls/Kineko.m3u8
+#EXTINF:-1 tvg-id="kineko" group-title="📺 Фильмовые",Кинеко HD
+http://moobl.ru/hls/Kineko_hd.m3u8
+#EXTINF:-1 tvg-id="sapfir" group-title="📺 Фильмовые",Сапфир
+http://moobl.ru/hls/Sapfir.m3u8
+#EXTINF:-1 tvg-id="sapfir" group-title="📺 Фильмовые",Сапфир HD
+http://moobl.ru/hls/Sapfir_hd.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="📺 Фильмовые",Fox
+http://moobl.ru/hls/Fox.m3u8
+#EXTINF:-1 tvg-id="fox" group-title="📺 Фильмовые",Fox HD
+http://moobl.ru/hls/Fox_HD.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="📺 Фильмовые",Fox Life
+http://moobl.ru/hls/Fox_Life.m3u8
+#EXTINF:-1 tvg-id="foxlife" group-title="📺 Фильмовые",Fox Life HD
+https://tv.drm-play.com/bkz/?000004471.m3u8
+#EXTINF:-1 tvg-id="backustv" group-title="📺 Фильмовые",BACKUS TV HD
+http://moobl.ru/hls/Backustv.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" group-title="📺 Фильмовые",BACKUSTV Страшное HD
+http://moobl.ru/hls/Backustv_horror.m3u8
+#EXTINF:-1 tvg-id="zee-tv" group-title="📺 Фильмовые",Индия
+http://moobl.ru/hls/India.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" group-title="📺 Фильмовые",Cinema
+http://moobl.ru/hls/Cinema.m3u8
+#EXTINF:-1 tvg-id="cinema-ru" group-title="📺 Фильмовые",Cinema HD
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png" group-title="📺 Фильмовые",Cinema Classic
+http://moobl.ru/hls/Cinema_classic.m3u8
+#EXTINF:-1 tvg-id="vip-serial" group-title="📺 Фильмовые",Viju+ Serial HD
+http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
+#EXTINF:-1 tvg-id="vip-comedy" group-title="📺 Фильмовые",Viju+ Comedy HD
+http://moobl.ru/hls/Viju_plus_Comedy_hd.m3u8
+#EXTINF:-1 tvg-id="vip-megahit" group-title="📺 Фильмовые",Viju+ Megahit HD
+http://91.207.115.228:5000/c144
+#EXTINF:-1 tvg-id="vip-premiere" group-title="📺 Фильмовые",Viju+ Premiere HD
+http://moobl.ru/hls/Viju_plus_Premiere_hd.m3u8
+#EXTINF:-1 tvg-id="khit-hd" group-title="📺 Фильмовые",Хит HD
+http://moobl.ru/hls/Hit_hd.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd" group-title="📺 Фильмовые",Блокбастер HD
+http://moobl.ru/hls/Blokbaster_hd.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ
+http://moobl.ru/hls/Kinopokaz.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" group-title="📺 Фильмовые",Кинопоказ HD
+http://moobl.ru/hls/Kinopokaz_hd.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz" group-title="📺 Фильмовые",Наш Кинопоказ
+http://moobl.ru/hls/Nash_Kinopokaz.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz" group-title="📺 Фильмовые",Наш Кинопоказ HD
+http://ln.tabox.in:24651/iWPFhYwcSz/WaNC8k08Lp/21975
+#EXTINF:-1 tvg-id="nashe-muzhskoe" group-title="📺 Фильмовые",Наше Мужское HD
+http://moobl.ru/hls/Nashe_muzhskoe_hd.m3u8
+#EXTINF:-1 tvg-id="premium-kino-kz" group-title="📺 Фильмовые",Премиум Кино KZ
+https://tv.drm-play.com/bkz/?000008491.m3u8
+#EXTINF:-1 tvg-id="mirovoe-kino-kz" group-title="📺 Фильмовые",Мировое Кино KZ
+https://tv.drm-play.com/bkz/?000008488.m3u8
+#EXTINF:-1 tvg-id="semejnoe-kino-kz" group-title="📺 Фильмовые",Семейное Кино KZ
+https://tv.drm-play.com/bkz/?000008489.m3u8
+#EXTINF:-1 tvg-id="kamedi" group-title="📺 Фильмовые",Камеди HD
+http://moobl.ru/hls/Kamedi_hd.m3u8
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="📺 Фильмовые",Любимое HD
+http://46.8.21.67:2021/channel/55c93d7e/index.m3u8?q=979c4b71103103fb05dd9b99dc0ce5c8
+#EXTINF:-1 tvg-id="lubimoe-kino" group-title="📺 Фильмовые",Наше любимое
+http://moobl.ru/hls/Nashe_lyubimoye_kino.m3u8
+#EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые",Kinojam 1 HD
+http://moobl.ru/hls/Kinojam_1_hd.m3u8
+#EXTINF:-1 tvg-id="kinojam1" group-title="📺 Фильмовые",Kinojam 2 HD
+http://moobl.ru/hls/Kinojam_2_hd.m3u8
+#EXTINF:-1 tvg-id="dushevnoe-hd" group-title="📺 Фильмовые",Душевное кино HD
+http://moobl.ru/hls/Dushevnoe_hd.m3u8
+#EXTINF:-1 tvg-id="trashtv" group-title="📺 Фильмовые",Trash HD
+http://moobl.ru/hls/Trash_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://smotret.tv/images/videokasseta.jpg" group-title="📺 Фильмовые",Видеокассета HD
+https://media-gateway-cache.nuum.ru/live/4968/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bn4m324/image-3.png" group-title="📺 Фильмовые",КІНО ТV VHS
+https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.catcast.tv/banners/73c89564952d3c798ae48eaced64f656.png" group-title="📺 Фильмовые",Видеосалон VHS HD
+http://195.9.195.3:8080/hls/175764.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/991/347/png-transparent-cinema-clapperboard-film-computer-icons-cine-miscellaneous-angle-text-thumbnail.png" group-title="📺 Фильмовые",FILM TV
+http://195.9.195.3:8080/hls/163253.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png" group-title="📺 Фильмовые",TDM TV - FMC
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png" group-title="📺 Фильмовые",TDM TV - Series
+http://195.9.195.3:8080/hls/186021.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logosave.com/images/large/2/Yamaha-TDM-logo.png" group-title="📺 Фильмовые",TDM TV - WWW
+http://195.9.195.3:8080/hls/192005.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.goodgame.ru/files/avatars/av_1436027_vOPJ.jpg" group-title="📺 Фильмовые",Фантастика HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://downkindly.com/file/images/6d22eIxqa1DA6s_s8sBZArR7qpN0YAHwr3qIn70geF8Xwpe81Xw_I29teLF4mKNp-w.jpg" group-title="📺 Фильмовые",SCR TV HD
+http://195.9.195.3:8080/hls/61358.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="📺 Фильмовые",Феникс плюс Кино
+http://moobl.ru/hls/Feniks_plus_kino.m3u8
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="📺 Фильмовые",Bollywood HD
+http://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 tvg-id="star-family" group-title="📺 Фильмовые",Star Family HD
+http://moobl.ru/hls/Star_Family_hd.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="📺 Фильмовые",Filmbox
+http://moobl.ru/hls/Filmbox.m3u8
+#EXTINF:-1 tvg-id="atv-kinoman" group-title="📺 Фильмовые",ATV Kinoman HD
+http://moobl.ru/hls/Kinoman_hd.m3u8
+#EXTINF:-1 tvg-id="312-music" group-title="📺 Фильмовые",312 Музыка
+http://moobl.ru/hls/312_music.m3u8
